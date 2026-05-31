@@ -1,3 +1,25 @@
+<p align="center">
+  <a href="https://dashsaturn.netlify.app/">Website</a> •
+  <a href="https://github.com/srdashzero/dash-saturn/releases">Download</a> •
+  <a href="https://www.instagram.com/dashsaturnoficial/">Instagram</a>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://dashsaturn.netlify.app/logo/logovideo.gif" alt="Dash Saturn Logo" width="420">
+</p>
+
+<h1 align="center">Dash Saturn</h1>
+
+<p align="center">
+  <strong>A modern Saturn-compatible desktop launcher for legally dumped games.</strong>
+</p>
+
+
+
 # Dash Saturn
 
 **Dash Saturn** is a modern Saturn-compatible desktop launcher for legally dumped games.
@@ -23,23 +45,15 @@ Dash Saturn is currently in early development.
 
 The launcher source code is private during this stage. Public releases, documentation, legal notices, and project updates will be published here.
 
-## Legal Notice
+## Legal and Third-Party Notices
 
-Dash Saturn is an independent project.
+Please read:
 
-Dash Saturn is not affiliated with, endorsed by, sponsored by, or approved by SEGA.
+- [LEGAL.md](LEGAL.md)
+- [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
 
-SEGA and Sega Saturn are trademarks of their respective owners.
+Dash Saturn does not include BIOS files, games, ROMs, disc images, or copyrighted firmware.
 
-No BIOS files, games, ROMs, disc images, or copyrighted firmware are included with Dash Saturn.
-
-Users are responsible for providing their own legally dumped files.
-
-## Third-Party Components
-
-Dash Saturn may use third-party open-source components depending on the release.
-
-All applicable licenses, credits, copyright notices, and source code availability information are preserved in the project documentation.
 
 ## Creator
 
@@ -58,3 +72,4 @@ Project DASH ecosystem:
 - Website: [dashsaturn.netlify.app](https://dashsaturn.netlify.app/)
 - Instagram: [@dashsaturnoficial](https://www.instagram.com/dashsaturnoficial/)
 - LinkedIn: [Bruno Brian de Paiva Almeida](https://www.linkedin.com/in/bruno-brian-de-paiva-almeida-63a092176/)
+
